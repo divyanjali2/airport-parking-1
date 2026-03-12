@@ -37,6 +37,27 @@ try {
 } catch (PDOException $e) {
     die('<div style="color:red;">Database error: ' . $e->getMessage() . '</div>');
 }
+
+
+try {
+    $stmtPrev = $conn->query("
+        SELECT 
+            id,
+            vehicle_type,
+            start_date,
+            end_date,
+            name,
+            whatsapp_number,
+            days,
+            price_per_day,
+            total_price
+        FROM previous_bookings
+        ORDER BY start_date DESC
+    ");
+    $previousBookings = $stmtPrev->fetchAll(PDO::FETCH_ASSOC);
+} catch (PDOException $e) {
+    die('<div style="color:red;">Database error (previous_bookings): ' . $e->getMessage() . '</div>');
+}
 ?>
 
 <!DOCTYPE html>
@@ -185,6 +206,63 @@ try {
                                             <?php endif; ?>
                                         </td>
                                     </tr>
+                                <?php endforeach; ?>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Previous Bookings Table -->
+                    <hr class="my-4">
+                    <h4 class="text-center fw-bold">Previous Bookings</h4>
+                    <div class="mb-3 d-flex align-items-end gap-3 justify-content-end">
+                        <div>
+                            <label for="vehicleTypeFilterPrev" class="form-label">Filter by Vehicle Type:</label>
+                            <select id="vehicleTypeFilterPrev" class="form-select w-auto">
+                                <option value="">All</option>
+                                <option value="car">Car</option>
+                                <option value="van">Van</option>
+                                <option value="bus">Bus</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label for="dateFilterPrev" class="form-label">Filter by Date:</label>
+                            <input type="date" id="dateFilterPrev" class="form-control" style="width:160px;">
+                        </div>
+                        <div class="align-self-end">
+                            <button id="clearDateFilterPrev" class="btn btn-danger">Clear</button>
+                        </div>
+                        <div class="align-self-end">
+                            <button id="exportCSVPrev" class="btn btn-info">Export CSV</button>
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <table id="previousBookingsTable" class="table table-bordered table-striped align-middle">
+                            <thead>
+                                <tr class="table-dark">
+                                    <th>#</th>
+                                    <th>Vehicle Type</th>
+                                    <th>Customer Name</th>
+                                    <th>WhatsApp</th>
+                                    <th>Start Date</th>
+                                    <th>End Date</th>
+                                    <th>Days</th>
+                                    <th>Price per Day (LKR)</th>
+                                    <th>Total Price (LKR)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <?php foreach($previousBookings as $i => $b): ?>
+                                <tr>
+                                    <td><?= $i + 1 ?></td>
+                                    <td><?= htmlspecialchars($b['vehicle_type']) ?></td>
+                                    <td><?= htmlspecialchars($b['name']) ?></td>
+                                    <td><?= htmlspecialchars($b['whatsapp_number']) ?></td>
+                                    <td data-order="<?= $b['start_date'] ?>"><?= date('d M Y', strtotime($b['start_date'])) ?></td>
+                                    <td data-order="<?= $b['end_date'] ?>"><?= date('d M Y', strtotime($b['end_date'])) ?></td>
+                                    <td><?= number_format($b['days'],0) ?></td>
+                                    <td><?= number_format($b['price_per_day'],2) ?></td>
+                                    <td><?= number_format($b['total_price'],2) ?></td>
+                                </tr>
                                 <?php endforeach; ?>
                             </tbody>
                         </table>
