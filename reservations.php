@@ -7,33 +7,36 @@
         exit;
     }
 
-    try {
-        $stmt = $conn->query("
-            SELECT
-                id,
-                reference_number,
-                slot_number,
-                vehicle_type,
-                flight_number,
-                start_date,
-                end_date,
-                total_price,
-                pdf_path,
-                name AS customer_name,
-                email,
-                booking_type,
-                whatsapp_number,
-                total_price_final
-            FROM reserved_slots
-            WHERE is_trashed = 0
-            ORDER BY created_at DESC
-        ");
+try {
+    $stmt = $conn->query("
+        SELECT
+            id,
+            reference_number,
+            slot_number,
+            vehicle_type,
+            flight_number,
+            start_date,
+            end_date,
+            total_price,
+            pdf_path,
+            name AS customer_name,
+            email,
+            booking_type,
+            whatsapp_number,
+            total_price_final,
+            status
+        FROM reserved_slots
+        WHERE is_trashed = 0
+        ORDER BY 
+            CASE WHEN status = 'pending' THEN 0 ELSE 1 END,
+            created_at DESC
+    ");
 
-        $bookings = $stmt->fetchAll(PDO::FETCH_ASSOC);
+    $bookings = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
-    } catch (PDOException $e) {
-        die('<div style="color:red;">Database error: ' . $e->getMessage() . '</div>');
-    }
+} catch (PDOException $e) {
+    die('<div style="color:red;">Database error: ' . $e->getMessage() . '</div>');
+}
 ?>
 
 <!DOCTYPE html>
@@ -70,9 +73,9 @@
             <div class="container-fluid">
                 <div class="card dashboard-card">
                     <div class="d-flex justify-content-end">
-                        <button class="btn btn-warning text-dark me-2" data-bs-toggle="modal" data-bs-target="#addInvoiceModal">
+                        <a href="add-invoices.php" class="btn btn-warning text-dark me-2">
                             Add Invoices
-                        </button>
+                        </a>
                         <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#directBookingModal">
                             Add Direct Booking
                         </button>
@@ -115,11 +118,10 @@
                                     <th>Reference No</th>
                                     <th>Customer</th>
                                     <th>WhatsApp</th>
-                                    <th>Slot</th>
-                                    <th>Start Date</th>
-                                    <th>End Date</th>
+                                    <th>Date</th>
                                     <th>Total Price (LKR)</th>
                                     <th>Invoice</th>
+                                    <th>Status</th>
                                     <th>Action</th>
                                 </tr>
                             </thead>
@@ -131,9 +133,9 @@
                                         <td><?= htmlspecialchars($b['reference_number']) ?></td>
                                         <td><?= htmlspecialchars($b['customer_name']) ?></td>
                                         <td><?= htmlspecialchars($b['whatsapp_number']) ?></td>
-                                        <td><?= htmlspecialchars($b['slot_number']) ?></td>
-                                        <td data-order="<?= $b['start_date'] ?>"><?= date('d M Y', strtotime($b['start_date'])) ?></td>
-                                        <td data-order="<?= $b['end_date'] ?>"><?= date('d M Y', strtotime($b['end_date'])) ?></td>
+                                        <td data-order="<?= $b['start_date'] ?>">
+                                            <?= date('d M Y', strtotime($b['start_date'])) ?> - <?= date('d M Y', strtotime($b['end_date'])) ?>
+                                        </td>
                                         <td><?= number_format(!empty($b['total_price_final']) ? $b['total_price_final'] : $b['total_price'], 2) ?></td>                                        <td>
                                             <?php if (!empty($b['pdf_path'])): ?>
                                                 <?php 
@@ -150,6 +152,21 @@
                                                 N/A
                                             <?php endif; ?>
                                         </td>
+                                        <?php
+                                            $status = strtolower($b['status']);
+
+                                            $badgeClass = match ($status) {
+                                                'pending' => 'bg-warning text-dark',
+                                                'send_to_finance' => 'bg-info text-dark',
+                                                'accepted' => 'bg-success text-white',
+                                                default => 'bg-secondary text-white'
+                                            };
+                                            ?>
+                                            <td>
+                                                <span class="badge <?= $badgeClass ?> p-2">
+                                                    <?= htmlspecialchars(ucwords(str_replace('_', ' ', $b['status']))) ?>
+                                                </span>
+                                            </td>                                       
                                         <td class="d-flex gap-1">
                                             <!-- Edit button -->
                                             <button class="btn btn-sm btn-outline-success edit-booking" data-id="<?= $b['id'] ?>">Edit</button>
@@ -336,7 +353,7 @@
             const table = $('#bookingsTable').DataTable({
                 pageLength: 50,
                 lengthMenu: [5, 10, 25, 50],
-                order: [[7, 'desc']],
+                // order: [[7, 'desc']],
                 responsive: true,
                 buttons: [{
                     extend: 'csvHtml5',
@@ -617,4 +634,12 @@
 
             function readBase64(file) {
                 return new Promise(resolve => {
-                    const reader = new FileR
+                    const reader = new FileReader();
+                    reader.onload = e => resolve(e.target.result);
+                    reader.readAsDataURL(file);
+                });
+            }
+        });
+    </script>
+</body>
+</html>

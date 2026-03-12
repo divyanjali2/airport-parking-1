@@ -122,6 +122,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <label class="form-label">Role <span class="text-danger">*</span></label>
                         <select name="role" class="form-select" required>
                             <option value="admin" <?= ($user['role'] === 'admin') ? 'selected' : '' ?>>Admin</option>
+                            <option value="gm" <?= ($user['role'] === 'gm') ? 'selected' : '' ?>>General Manager</option>
+                            <option value="finance" <?= ($user['role'] === 'finance') ? 'selected' : '' ?>>Finance</option>
                             <option value="staff" <?= ($user['role'] === 'staff') ? 'selected' : '' ?>>Staff</option>
                         </select>
                     </div>

@@ -5,23 +5,24 @@ require_once __DIR__ . '/assets/includes/db_connect.php';
 $error = "";
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $name = trim($_POST['name'] ?? '');
+    $email = trim($_POST['email'] ?? '');
     $password = $_POST['password'] ?? '';
 
-    if ($name && $password) {
-        $stmt = $conn->prepare("SELECT * FROM users WHERE name = :name AND status = 'active' LIMIT 1");
-        $stmt->execute(['name' => $name]);
+    if ($email && $password) {
+        $stmt = $conn->prepare("SELECT * FROM users WHERE email = :email AND status = 'active' LIMIT 1");
+        $stmt->execute(['email' => $email]);
         $user = $stmt->fetch(PDO::FETCH_ASSOC);
 
         if ($user && password_verify($password, $user['password'])) {
             $_SESSION['user_id'] = $user['id'];
-            $_SESSION['user_name'] = $user['name'];
+            $_SESSION['user_email'] = $user['email'];
             $_SESSION['user_role'] = $user['role'];
+            $_SESSION['user_name'] = $user['name'];
 
             header("Location: dashboard.php");
             exit;
         } else {
-            $error = "Invalid name or password.";
+            $error = "Invalid email or password.";
         }
     } else {
         $error = "Please fill in all fields.";
@@ -34,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <head>
 <meta charset="UTF-8">
 <title>Airport Parking | Login</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta email="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <link rel="icon" type="image/png" href="assets/images/footer-logo.png">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
@@ -137,8 +138,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
     <form method="POST" action="">
         <div class="mb-3">
-            <label for="name" class="form-label fw-semibold">Name</label>
-            <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name" required>
+            <label for="email" class="form-label fw-semibold">Email</label>
+            <input type="email" class="form-control" id="email" name="email" placeholder="Enter your email" required>
         </div>
 
         <div class="mb-3 position-relative">
