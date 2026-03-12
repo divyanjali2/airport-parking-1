@@ -1,0 +1,2 @@
+[2025-12-22 11:39:48] (ERROR @ C:\xampp\htdocs\airport-parking\core\cache\setup\smarty\071aaf54fcd993073a04a189f55e586a4eed452c_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2025-12-22 11:39:48] (ERROR @ C:\xampp\htdocs\airport-parking\core\cache\setup\smarty\071aaf54fcd993073a04a189f55e586a4eed452c_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null

@@ -1,0 +1,848 @@
+<body id = "homePage">
+    <!-- Home hero starts -->
+    <section id="homeHero">
+        <div class="swiper homeHeroSwiper">
+            <div class="swiper-wrapper">
+                <!-- Slide 1 -->
+                <div class="swiper-slide">
+                    <img src="assets/images/home-hero/img-1.webp" alt="Airport Parking"class="img-fluid">
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                    <img src="assets/images/home-hero/img-2.webp" alt="Airport Parking" class="img-fluid">
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="swiper-slide">
+                    <img src="assets/images/home-hero/img-3.webp" alt="Airport Parking" class="img-fluid">
+                </div>
+            </div>
+        </div>
+
+        <!-- Hero Content -->
+        <div class="homehero-content">
+            <h1 data-aos="fade-down-right" data-aos-duration="1000">
+                Secure Parking  <br class="d-md-none">
+                Designed <br class="d-none d-md-block">
+                Around Your Journey
+            </h1>
+            <p class="mt-3" data-aos="fade-down-left" data-aos-duration="1000">
+                Secure, convenient parking designed to keep your journey smooth.<br>
+                Reliable access, peace of mind, and hassle-free arrivals and returns.
+            </p>
+            <a href="#reserve-slots" class="mt-3">Reserve Your Space</a>
+        </div>
+
+    </section>
+    <!-- Home hero ends -->
+
+    <!-- Who we are section starts -->
+    <section id="who-we-are" class="py-5">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-12 col-md-6 col-lg-8">
+                    <h2 class="heading">Who We Are</h2>
+                    <p class="supportive-text">Airport Parking Service</p>
+                    <p><b>Airportparking.lk</b> is a flagship venture of <b><a href="https://srilankarentacar.com/" style ="text-decoration:none; color: black;">SR Rent a Car</a></b> and a pioneer in introducing dedicated airport parking services in Sri Lanka. As one of the first providers to establish this concept, we set the industry standard for secure, convenient, and cost-effective airport parking solutions. Our facility is strategically located in close proximity to Bandaranaike International Airport, enabling travelers to park with confidence and reach the terminal quickly and effortlessly.
+</p>
+                    <p class="mb-0">With 24/7 surveillance, controlled access, and a professionally trained operations team, we ensure the highest level of safety and reliability for every vehicle entrusted to us. Supported by flexible parking options and responsive customer service, Airportparking.lk continues to lead the industry by delivering a seamless, stress-free parking experience that allows our customers to begin and end their journeys with complete peace of mind.
+</p>
+                </div>
+                 <div class="col-12 col-md-6 col-lg-4">
+                    <img src="assets/images/who-we-are.jpeg" alt="Who we are image" class="img-fluid rounded-3 mt-4 mt-md-0">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Who we are section ends -->
+
+    <!-- Why Choose Us section starts -->
+    <section id="why-choose-us" class="py-3">
+        <div class="container">
+            <div class="row g-5 justify-content-center">
+                <div class="col-12 col-md-6 col-lg-3 why-choose">
+                    <img src="assets/images/why-choose-us/img-1.png" alt="Why choose us image" class="img-fluid">
+                    <p>SAFE AND SECURE PARKING AREAS</p>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 why-choose">
+                    <img src="assets/images/why-choose-us/img-2.png" alt="Why choose us image" class="img-fluid">
+                    <p>FRIENDLY AND EFFICIENT STAFF</p>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 why-choose">
+                    <img src="assets/images/why-choose-us/img-3.png" alt="Why choose us image" class="img-fluid">
+                    <p>ONLINE BOOKING FACILITY</p>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 why-choose">
+                    <img src="assets/images/why-choose-us/img-4.png" alt="Why choose us image" class="img-fluid">
+                    <p>24/7 CCTV SURVEILLANCE</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Why Choose Us section ends -->
+
+    <!--Reserve Slots section starts -->
+    <section id="reserve-slots" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading text-center">Reserve Your Parking Slot Today</h2>
+                    <p class="supportive-text text-center">Book your parking space in advance and enjoy a hassle-free experience.</p>
+                </div>
+                <div class="col-12 d-flex justify-content-center">
+                    <div class="parking-building-wrapper">
+                        <!-- Legend -->
+                        <div class="parking-legend">
+                            <div class="legend-item">
+                                <span class="available"></span> Available
+                            </div>
+                            <div class="legend-item">
+                                <span class="selected"></span> Selected
+                            </div>
+                            <div class="legend-item">
+                                <span class="booked"></span> Booked
+                            </div>
+                        </div>
+
+                        <!-- Parking layout -->
+                        <div class="floor active">
+                            <!-- Row 1 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot">A1</button>
+                                <button class="slot booked">A2</button>
+                                <button class="slot">A3</button>
+                                <button class="slot">A4</button>
+                                <span class="marker elevator"></span>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot">A5</button>
+                                <button class="slot booked">A6</button>
+                                <button class="slot">A7</button>
+                                <button class="slot">A8</button>
+                                </div>
+                            </div>
+
+                            <!-- Row 2 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot booked">B1</button>
+                                <button class="slot">B2</button>
+                                <button class="slot">B3</button>
+                                <span class="marker elevator"></span>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot">B4</button>
+                                <button class="slot booked">B5</button>
+                                <button class="slot">B6</button>
+                                </div>
+                            </div>
+
+                            <!-- Row 3 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot">C1</button>
+                                <button class="slot">C2</button>
+                                <button class="slot booked">C3</button>
+                                <button class="slot">C4</button>
+                                <span class="marker elevator"></span>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot booked">C5</button>
+                                <button class="slot">C6</button>
+                                <button class="slot">C7</button>
+                                <button class="slot">C8</button>
+                                </div>
+                            </div>
+
+                            <!-- Row 4 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot">D1</button>
+                                <button class="slot booked">D2</button>
+                                <button class="slot">D3</button>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot">D4</button>
+                                <button class="slot booked">D5</button>
+                                <button class="slot">D6</button>
+                                </div>
+                            </div>
+
+                            <!-- Row 5 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot">E1</button>
+                                <button class="slot">E2</button>
+                                <button class="slot booked">E3</button>
+                                <span class="marker elevator"></span>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot">E4</button>
+                                <button class="slot booked">E5</button>
+                                <button class="slot">E6</button>
+                                <button class="slot">E7</button>
+                                </div>
+                            </div>
+
+                            <!-- Row 6 -->
+                            <div class="row parking-row">
+                                <div class="bay left">
+                                <button class="slot booked">F1</button>
+                                <button class="slot">F2</button>
+                                <button class="slot">F3</button>
+                                <span class="marker elevator"></span>
+                                </div>
+                                <div class="driveway">Driveway</div>
+                                <div class="bay right">
+                                <button class="slot">F4</button>
+                                <button class="slot booked">F5</button>
+                                <button class="slot">F6</button>
+                                <button class="slot">F7</button>
+                                </div>
+                            </div>
+
+                            <!-- Entry/Exit -->
+                            <div class="entry-exit">
+                                <span class="marker entry">Entry</span>
+                                <span class="marker exit">Exit</span>
+                            </div>
+                        </div>
+
+                        <!-- Booking Modal -->
+                        <div id="booking-modal" class="modal">
+                            <div class="modal-content">
+                                <span class="close">&times;</span>
+                                <h3>Reserve Your Parking Slot</h3>
+                                <hr>
+                                <form id="booking-form" class="booking-form-grid">
+                                    <div class="form-group">
+                                        <label>Slot Number</label>
+                                        <input type="text" id="slot-number" readonly>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Vehicle Type <span class="text-danger">*</span></label>
+                                        <select class="form-select" id="vehicle-type" required>
+                                            <option value="">Select vehicle</option>
+                                            <option value="car">Car</option>
+                                            <option value="van">Van</option>
+                                            <option value="bus">Bus</option>
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Flight Number <span class="text-danger">*</span></label>
+                                        <input type="text" id="flight-number" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Start Date & Time <span class="text-danger">*</span></label>
+                                        <input type="datetime-local" id="start-date" class="form-control" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>End Date & Time <span class="text-danger">*</span></label>
+                                        <input type="datetime-local" id="end-date" class="form-control" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label>Name <span class="text-danger">*</span></label>
+                                        <input type="text" id="user-name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Hometown <span class="text-danger">*</span></label>
+                                        <input type="text" id="hometown" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Email <span class="text-danger">*</span></label>
+                                        <input type="email" id="user-email" required>
+                                    </div>
+                                    <div class="form-group mb-0">
+                                        <label>WhatsApp Number <span class="text-danger">*</span></label>
+                                        <input type="text" id="whatsapp-number" required>
+                                    </div>
+
+                                    <div class="form-group mb-0 mt-2">
+                                        <label>Air Ticket Image <span class="text-danger">*</span></label>
+                                        <input type="file" id="air_ticket_image_url" name="air_ticket_image_url" accept="image/*" required>
+                                    </div>
+
+                                    <div class="form-group mb-0 mt-2">
+                                        <label>Passport Copy Image <span class="text-danger">*</span></label>
+                                        <input type="file" id="passport_copy_image_url" name="passport_copy_image_url" accept="image/*" required>
+                                    </div>
+                                    <div class="price-summary">
+                                        <p>
+                                            <strong>Total Days:</strong>
+                                            <span id="total-days-text">0</span>
+                                        </p>
+                                        <p>
+                                            <strong>Price per Day:</strong>
+                                            LKR 1,000
+                                        </p>
+                                        <p class="total-amount">
+                                            <strong>Total Price:</strong>
+                                            LKR <span id="total-price-text">0</span>
+                                        </p>
+                                    </div>
+                                    <div class="extra-services">
+                                        <p><strong>Extra Services</strong></p>
+
+                                        <label class="checkbox-item">
+                                            <input type="checkbox" class="extra-service" value="1000" data-name="Body Wash & Vacuum">
+                                            Body Wash & Vacuum (LKR 1,000)
+                                        </label>
+
+                                        <label class="checkbox-item">
+                                            <input type="checkbox" class="extra-service" value="500" data-name="Shuttle One Way">
+                                            Shuttle One Way (LKR 500)
+                                        </label>
+
+                                        <label class="checkbox-item">
+                                            <input type="checkbox" class="extra-service" value="1000" data-name="Shuttle Two Way">
+                                            Shuttle Two Way (LKR 1,000)
+                                        </label>
+                                    </div>
+                                    <button type="submit" id="submit-booking-btn">Book Slot</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Reserve Slots section ends -->
+
+    <!-- Booking Tips section starts -->
+    <section id="booking-tips" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading text-center">Booking Tips</h2>
+                    <p class="supportive-text text-center">Follow these steps for a smooth parking experience.</p>
+                </div>
+            </div>
+           <div class="row mt-4">
+                <div class="col-md-8">
+                    <ul class="booking-tips-timeline">
+                        <li>
+                            <span class="tip-circle">01</span>
+                            <div class="tip-content">Reserve your parking slot in advance</div>
+                        </li>
+                        <li>
+                            <span class="tip-circle">02</span>
+                            <div class="tip-content">Double-check your start and end dates</div>
+                        </li>
+                        <li>
+                            <span class="tip-circle">03</span>
+                            <div class="tip-content">Keep your reference number safe</div>
+                        </li>
+                        <li>
+                            <span class="tip-circle">04</span>
+                            <div class="tip-content">Select extra services if required</div>
+                        </li>
+                        <li>
+                            <span class="tip-circle">05</span>
+                            <div class="tip-content">Arrive early for a smooth check-in</div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-4 d-flex justify-content-center align-items-center">
+                    <img src="assets/images/booking-tips.webp" alt="Booking tips image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Booking Tips section ends -->
+
+    <!-- Our Services section starts -->
+    <section id="our-services" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading text-center">Our Services</h2>
+                    <p class="supportive-text text-center">Comprehensive parking solutions tailored to your needs.</p>
+                </div>
+            </div>
+            <div class="row justify-content-center mt-4">
+                <!-- Airport Parking Services -->
+                <div class="col-12 col-md-6 col-lg-3 mb-4">
+                    <div class="service-card">
+                        <img src="assets/images/services/airport-parking-area.webp" alt="Airport Parking Services" class="img-fluid">
+                        <div class="service-content">
+                            <h3>Airport Parking Services</h3>
+                            <p class="service-short text-center">
+                                Secure airport parking 10 minutes from BIA.
+                            </p>
+
+                            <button class="toggle-service">View Details</button>
+
+                            <div class="service-details">
+                                <p>
+                                    Airport Parking Sri Lanka is one of the wing companies of
+                                    Explore Holdings. We are the only airport parking provider
+                                    in Sri Lanka for overseas travelers, located just
+                                    10 minutes from Bandaranayake International Airport with
+                                    optional shuttle services. <a href="https://airportparking.lk/">Airport Parking</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tour Operations in Sri Lanka -->
+                <div class="col-12 col-md-6 col-lg-3 mb-4">
+                    <div class="service-card">
+                        <img src="assets/images/services/airport-taxi-service.webp"
+                            alt="Tour Operations in Sri Lanka"
+                            class="img-fluid">
+
+                        <div class="service-content">
+                            <h3>Tour Operations in Sri Lanka</h3>
+                            <p class="service-short text-center">
+                                Tailor-made Sri Lanka holiday experiences.
+                            </p>
+
+                            <button class="toggle-service">View Details</button>
+
+                            <div class="service-details">
+                                <p>
+                                    Explore Vacations offers customized Sri Lanka tours with
+                                    customer-friendly guided experiences. Every client is
+                                    treated as a VIP, ensuring a memorable and enriching
+                                    journey across the island. <a href="https://explore.vacations/">Explore Vacations</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Car Rental Services -->
+                <div class="col-12 col-md-6 col-lg-3 mb-4">
+                    <div class="service-card">
+                        <img src="assets/images/services/car-rental-services.webp"
+                            alt="Car Rental Services"
+                            class="img-fluid">
+
+                        <div class="service-content">
+                            <h3>Car Rental Services</h3>
+                            <p class="service-short text-center">
+                                Premium vehicles at affordable rates.
+                            </p>
+
+                            <button class="toggle-service">View Details</button>
+
+                            <div class="service-details">
+                                <p>
+                                    SR Rent A Car provides a fleet of over 100 luxury vehicles
+                                    suitable for business travel and leisure trips. Our
+                                    smooth rental process ensures convenience and comfort
+                                    for every journey. <a href="https://srilankarentacar.lk/">SR Rent a Car</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Airport Taxi Service -->
+                <div class="col-12 col-md-6 col-lg-3 mb-4">
+                    <div class="service-card">
+                        <img src="assets/images/services/hotel-booking-service.webp"
+                            alt="Airport Taxi Service"
+                            class="img-fluid">
+
+                        <div class="service-content">
+                            <h3>Airport Taxi Service</h3>
+                            <p class="service-short text-center">
+                                Seamless airport-hotel transfers.
+                            </p>
+
+                            <button class="toggle-service">View Details</button>
+
+                            <div class="service-details">
+                                <p>
+                                    SR Transfers offers reliable airport taxi services with
+                                    competitive rates. Our customer-focused approach ensures
+                                    timely and comfortable transfers between the airport
+                                    and your destination. <a href="https://srilankatransfer.lk/">SR Transfers</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Our Services section ends -->
+
+    <!-- Testimonials section starts -->
+    <section id="testimonials" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading text-center">What Our Customers Say</h2>
+                    <p class="supportive-text text-center">Real feedback from our valued clients.</p>
+                </div>
+            </div>
+
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div id="testimonialCarousel" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner" id="testimonialContainer"></div>
+
+                        <button class="carousel-control-prev" type="button"
+                            data-bs-target="#testimonialCarousel" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon"></span>
+                        </button>
+
+                        <button class="carousel-control-next" type="button"
+                            data-bs-target="#testimonialCarousel" data-bs-slide="next">
+                            <span class="carousel-control-next-icon"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View More Button -->
+            <div class="row">
+                <div class="col text-center">
+                    <a href="https://www.google.com/maps/place/Airport+Parking+Sri+Lanka/@7.1292859,79.8732382,17z/data=!4m8!3m7!1s0x3ae2f16b53527527:0xfa15e5c2744b0e7f!8m2!3d7.1292859!4d79.8758131!9m1!1b1!16s%2Fg%2F11j30yjgyb?entry=ttu&g_ep=EgoyMDI2MDEwNC4wIKXMDSoASAFQAw%3D%3D" class="btn btn-outline-primary px-4" target="_blank" rel="noopener noreferrer">
+                        View More Reviews
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Testimonials section ends -->
+
+   <script>
+        fetch('assets/data/testimonials.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('testimonialContainer');
+                const wordLimit = 20;
+
+                const limitWords = (text, limit) => {
+                    const words = text.split(' ');
+                    return words.length > limit
+                        ? words.slice(0, limit).join(' ') + '...'
+                        : text;
+                };
+
+                const firstFour = data.slice(0, 4);
+
+                let slideHTML = `
+                    <div class="carousel-item active">
+                        <div class="row">
+                `;
+
+                firstFour.forEach(item => {
+                    slideHTML += `
+                        <div class="col-12 col-md-6 col-lg-3 mb-4">
+                            <div class="testimonial-card text-center p-4 h-100">
+                                <p class="testimonial-text">
+                                    "${limitWords(item.text, wordLimit)}"
+                                </p>
+                                <h5 class="testimonial-name mt-3">- ${item.name}</h5>
+                                <p class="testimonial-role">${item.role}</p>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                slideHTML += `
+                        </div>
+                    </div>
+                `;
+
+                container.insertAdjacentHTML('beforeend', slideHTML);
+            })
+            .catch(err => console.error('Error loading testimonials:', err));
+    </script>
+
+    <script>
+        window.addEventListener('load', () =>{
+            if(window.location.hash === "#reserve-slots") {
+                const section = document.getElementById("reserve-slots");
+                if(section) section.scrollIntoView({ behavior: "smooth" });
+            }
+        });
+    </script>
+     
+    <script>
+        document.querySelectorAll('.toggle-service').forEach(button => {
+            button.addEventListener('click', () => {
+                const card = button.closest('.service-card');
+                card.classList.toggle('active');
+                button.textContent = card.classList.contains('active')
+                    ? 'Hide Details'
+                    : 'View Details';
+            });
+        });
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const slots = Array.from(document.querySelectorAll('#reserve-slots .slot'));
+            const modal = document.getElementById('booking-modal');
+            const closeModal = modal.querySelector('.close');
+            const bookingForm = document.getElementById('booking-form');
+
+            const slotInput = document.getElementById('slot-number');
+            const vehicleTypeInput = document.getElementById('vehicle-type');
+            const hometownInput = document.getElementById('hometown');
+
+            const startDateInput = document.getElementById('start-date');
+            const endDateInput = document.getElementById('end-date');
+
+            const totalDaysText = document.getElementById('total-days-text');
+            const totalPriceText = document.getElementById('total-price-text');
+
+            const extraServices = document.querySelectorAll('.extra-service');
+
+            const PRICE_PER_DAY = 1000;
+
+            const now = new Date();
+            const tzOffset = now.getTimezoneOffset() * 60000; 
+            const localISO = new Date(now - tzOffset).toISOString().slice(0,16); 
+
+            startDateInput.min = localISO;
+            endDateInput.min = localISO;
+
+
+function calculateTotal() {
+    if (!startDateInput.value || !endDateInput.value) {
+        totalDaysText.textContent = '0 days 0 hours';
+        totalPriceText.textContent = '0.00';
+        return;
+    }
+
+    const start = new Date(startDateInput.value);
+    const end = new Date(endDateInput.value);
+
+    if (end <= start) {
+        totalDaysText.textContent = '0 days 0 hours';
+        totalPriceText.textContent = '0.00';
+        return;
+    }
+
+    // Difference in milliseconds
+    const diffMs = end - start;
+
+    // Total hours
+    const totalHours = diffMs / (1000 * 60 * 60);
+
+    // Calculate full days and remaining hours
+    const fullDays = Math.floor(totalHours / 24);
+    const remainingHours = Math.round(totalHours % 24);
+
+    // Total days as float for pricing
+    const totalDaysFloat = totalHours / 24;
+
+    // Price: multiply by PRICE_PER_DAY proportionally
+    let total = totalDaysFloat * PRICE_PER_DAY;
+
+    // Add extra services
+    extraServices.forEach(service => {
+        if (service.checked) {
+            total += parseInt(service.value, 10);
+        }
+    });
+
+    // Update display
+    totalDaysText.textContent = `${fullDays} day${fullDays !== 1 ? 's' : ''} ${remainingHours} hour${remainingHours !== 1 ? 's' : ''}`;
+    totalPriceText.textContent = total.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+}
+
+
+            startDateInput.addEventListener('change', () => {
+                endDateInput.min = startDateInput.value;
+                calculateTotal();
+            });
+
+            endDateInput.addEventListener('change', calculateTotal);
+
+            extraServices.forEach(service => {
+                service.addEventListener('change', calculateTotal);
+            });
+
+            /* Slot click */
+            slots.forEach(slot => {
+                slot.addEventListener('click', () => {
+                if (slot.classList.contains('booked')) return;
+
+                bookingForm.reset(); // reset first
+
+                slotInput.value = slot.textContent;
+                totalDaysText.textContent = '0';
+                totalPriceText.textContent = '0';
+
+                modal.style.display = 'block';
+                });
+            });
+
+            /*  Close modal */
+            closeModal.addEventListener('click', () => {
+                modal.style.display = 'none';
+                bookingForm.reset();
+            });
+
+            window.addEventListener('click', e => {
+                if (e.target === modal) {
+                modal.style.display = 'none';
+                bookingForm.reset();
+                }
+            });
+
+            bookingForm.addEventListener('submit', e => {
+                e.preventDefault();
+
+                const submitBtn = document.getElementById('submit-booking-btn');
+                submitBtn.disabled = true;
+                submitBtn.textContent = 'Reserving...';
+
+                // Calculate exact total hours for fractional days
+                const start = new Date(startDateInput.value);
+                const end = new Date(endDateInput.value);
+                const totalHours = (end - start) / (1000 * 60 * 60); // total hours
+                const totalDaysFloat = totalHours / 24;
+
+                // Calculate total price including extra services
+                let totalPrice = totalDaysFloat * PRICE_PER_DAY;
+                extraServices.forEach(service => {
+                    if (service.checked) totalPrice += parseInt(service.value, 10);
+                });
+
+                const payload = {
+                    slot: slotInput.value,
+                    vehicleType: document.getElementById('vehicle-type').value,
+                    hometown: document.getElementById('hometown').value,
+                    startDate: startDateInput.value,
+                    endDate: endDateInput.value,
+                    days: totalDaysFloat.toFixed(2),      // send fractional days
+                    pricePerDay: PRICE_PER_DAY,
+                    totalPrice: totalPrice.toFixed(2),    // send float
+                    extras: Array.from(document.querySelectorAll('.extra-service:checked'))
+                        .map(e => e.dataset.name),
+                    flightNumber: document.getElementById('flight-number').value,
+                    whatsapp: document.getElementById('whatsapp-number').value,
+                    name: document.getElementById('user-name').value,
+                    email: document.getElementById('user-email').value
+                };
+
+                const formData = new FormData();
+
+                Object.keys(payload).forEach(key => {
+                    if (Array.isArray(payload[key])) {
+                        payload[key].forEach(val => formData.append(`${key}[]`, val));
+                    } else {
+                        formData.append(key, payload[key]);
+                    }
+                });
+
+                // Append images
+                formData.append('air_ticket_image_url', document.getElementById('air_ticket_image_url').files[0]);
+                formData.append('passport_copy_image_url', document.getElementById('passport_copy_image_url').files[0]);
+
+                fetch('assets/includes/save-booking.php', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(res => res.json())
+                .then(response => {
+                    if (!response.success) {
+                        submitBtn.disabled = false;
+                        submitBtn.textContent = 'Book Slot';
+
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Booking Failed',
+                            text: response.message || 'Unknown error',
+                        });
+                        return;
+                    }
+
+                    Swal.fire({
+                        icon: 'success',
+                        title: 'Booking Successful',
+                        html: `
+                            Slot <strong>${payload.slot}</strong> reserved.<br>
+                            Reference: <strong>${response.reference}</strong>
+                        `
+                    }).then(() => {
+                        window.open(response.pdf_url, '_blank', 'noopener,noreferrer');
+                        setTimeout(() => window.location.reload(), 1000);
+                    });
+
+                    const slotElement = slots.find(s => s.textContent === payload.slot);
+                    if (slotElement) slotElement.classList.add('booked');
+
+                    modal.style.display = 'none';
+                    bookingForm.reset();
+                })
+                .catch(error => {
+                    submitBtn.disabled = false;
+                    submitBtn.textContent = 'Book Slot';
+
+                    Swal.fire({
+                        icon: 'error',
+                        title: 'Server Error',
+                        text: error.message,
+                    });
+                    console.error(error);
+                });
+            });
+        });
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+
+        const slots = Array.from(document.querySelectorAll('#reserve-slots .slot'));
+
+        // Remove existing booked classes (if any)
+        slots.forEach(slot => slot.classList.remove('booked'));
+
+        // Randomly book 5 to 7 slots
+        const numToBook = Math.floor(Math.random() * 3) + 12; // random between 5 and 7
+        const shuffled = slots.sort(() => 0.5 - Math.random());
+        const bookedSlots = shuffled.slice(0, numToBook);
+
+        bookedSlots.forEach(slot => slot.classList.add('booked'));
+
+        // Slot selection (single select)
+        slots.forEach(slot => {
+            slot.addEventListener('click', () => {
+            if (slot.classList.contains('booked')) return;
+
+            // Remove selected from other slots
+            slots.forEach(s => s.classList.remove('selected'));
+
+            // Add selected class to clicked slot
+            slot.classList.add('selected');
+            });
+        });
+        });
+    </script>
+
+    <script>
+        const heroSwiper = new Swiper(".homeHeroSwiper", {
+            loop: true,
+            autoplay: {
+                delay: 3500,
+                disableOnInteraction: false,
+            },
+            speed: 800,
+            effect: "fade",
+            fadeEffect: {
+                crossFade: true
+            }
+        });
+    </script>
+</body>
