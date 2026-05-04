@@ -6,7 +6,7 @@ $database_type = 'mysql';
 $database_server = 'localhost';
 $database_connection_charset = 'utf8mb4';
 $table_prefix = 'modx_';
-$dbase = 'airport_parking';
+$dbase = 'airport-parking';
 $database_user = 'root';
 $database_password = '';
 $database_dsn = 'mysql:host=localhost;dbname=airport_parking;charset=utf8mb4';

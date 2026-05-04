@@ -48,3 +48,3290 @@ Array
     [2] => Table 'airport_parking.modx_session' doesn't exist
 )
 
+[2026-03-25 05:26:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:26:52] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:26:52] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s482hhg1o00qn8029hknevkuj3', 1774412812, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:26:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:26:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-03-25 05:26:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-03-25 05:26:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:26:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s482hhg1o00qn8029hknevkuj3', 1774412817, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s482hhg1o00qn8029hknevkuj3', 1774412957, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-03-25 05:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('s482hhg1o00qn8029hknevkuj3', 1774412964, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406154, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:29] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:29] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:09:29] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406169, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:16:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:16:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:16:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406565, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:06] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:22:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:22:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406929, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406935, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:22:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406970, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:23:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776406981, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:24:04] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407044, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407318, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:41] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:41] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:28:41] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:28:41] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:41] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407321, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:28:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407335, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:30:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:30:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407412, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:30:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407419, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:31:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:31:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:31:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:31:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:31:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407515, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407522, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:32:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407531, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:33:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:33:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:01] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407581, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:33:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407587, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:36:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:36:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407803, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:36:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407809, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:39:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:39:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407948, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407956, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:39:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776407967, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776408739, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:25] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776408745, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:36] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:36] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:52:36] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:52:36] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:52:36] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776408756, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:55:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:55:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 08:55:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 08:55:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 08:55:05] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776408905, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:17:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 09:17:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776410240, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_actiondom' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 534) Error 42S02 executing query: SELECT `modUser`.`id` AS `modUser_id`, `modUser`.`username` AS `modUser_username`, `modUser`.`password` AS `modUser_password`, `modUser`.`cachepwd` AS `modUser_cachepwd`, `modUser`.`class_key` AS `modUser_class_key`, `modUser`.`active` AS `modUser_active`, `modUser`.`remote_key` AS `modUser_remote_key`, `modUser`.`remote_data` AS `modUser_remote_data`, `modUser`.`hash_class` AS `modUser_hash_class`, `modUser`.`salt` AS `modUser_salt`, `modUser`.`primary_group` AS `modUser_primary_group`, `modUser`.`session_stale` AS `modUser_session_stale`, `modUser`.`sudo` AS `modUser_sudo`, `modUser`.`createdon` AS `modUser_createdon`, `Profile`.`id` AS `Profile_id`, `Profile`.`internalKey` AS `Profile_internalKey`, `Profile`.`fullname` AS `Profile_fullname`, `Profile`.`email` AS `Profile_email`, `Profile`.`phone` AS `Profile_phone`, `Profile`.`mobilephone` AS `Profile_mobilephone`, `Profile`.`blocked` AS `Profile_blocked`, `Profile`.`blockeduntil` AS `Profile_blockeduntil`, `Profile`.`blockedafter` AS `Profile_blockedafter`, `Profile`.`logincount` AS `Profile_logincount`, `Profile`.`lastlogin` AS `Profile_lastlogin`, `Profile`.`thislogin` AS `Profile_thislogin`, `Profile`.`failedlogincount` AS `Profile_failedlogincount`, `Profile`.`sessionid` AS `Profile_sessionid`, `Profile`.`dob` AS `Profile_dob`, `Profile`.`gender` AS `Profile_gender`, `Profile`.`address` AS `Profile_address`, `Profile`.`country` AS `Profile_country`, `Profile`.`city` AS `Profile_city`, `Profile`.`state` AS `Profile_state`, `Profile`.`zip` AS `Profile_zip`, `Profile`.`fax` AS `Profile_fax`, `Profile`.`photo` AS `Profile_photo`, `Profile`.`comment` AS `Profile_comment`, `Profile`.`website` AS `Profile_website`, `Profile`.`extended` AS `Profile_extended`, `UserSettings`.`user` AS `UserSettings_user`, `UserSettings`.`key` AS `UserSettings_key`, `UserSettings`.`value` AS `UserSettings_value`, `UserSettings`.`xtype` AS `UserSettings_xtype`, `UserSettings`.`namespace` AS `UserSettings_namespace`, `UserSettings`.`area` AS `UserSettings_area`, `UserSettings`.`editedon` AS `UserSettings_editedon` FROM `modx_users` AS `modUser` LEFT JOIN `modx_user_attributes` `Profile` ON `modUser`.`id` = `Profile`.`internalKey` LEFT JOIN `modx_user_settings` `UserSettings` ON `modUser`.`id` = `UserSettings`.`user` WHERE `modUser`.`username` = ? ORDER BY `modUser`.`id` ASC  - Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_users' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:17:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776410248, 'modx.user.contextTokens|a:0:{}manager_language|s:2:\"en\";')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:20:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:20:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:20:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410427, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:23:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:23:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:23:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410587, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:24:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:24:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:24:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410682, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:08] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410708, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410714, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:25:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410726, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:27:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:27:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:27:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410822, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410904, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:28:49] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410929, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:29:24] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776410964, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411003, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:30:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411054, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:16] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411136, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:17] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411137, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:20] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411140, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411146, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:44] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:44] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:44] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411164, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:51] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:51] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:32:51] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411171, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411193, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411203, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:53] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:53] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:33:53] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:33:53] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:53] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411233, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:33:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:33:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:33:55] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411235, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:34:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:34:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411253, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776411297, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:34:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:34:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:34:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('jkueeaspe989dmva7op0gp4hn3', 1776411299, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:35:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:35:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:35:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:35:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:35:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411307, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:43:40] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:43:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:43:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:43:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:43:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776411823, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:50:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:50:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:50:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:50:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:50:50] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412250, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:51:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:51:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412278, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:37] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:37] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:51:37] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:51:37] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:37] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412297, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:56] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:56] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:51:56] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412316, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:19] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412339, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:52:38] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412358, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:06] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:06] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:06] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412446, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:30] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:30] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:30] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412470, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:31] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:31] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:54:31] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412471, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:55:52] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:55:52] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:55:52] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412552, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:56:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:56:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:56:42] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412602, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:40] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:40] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:40] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412720, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:47] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:47] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:47] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412727, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:58:59] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412739, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 09:59:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 09:59:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:07] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412747, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 09:59:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412767, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412809, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:21] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:21] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_access_context' doesn't exist
+)
+
+[2026-04-17 10:00:21] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_site_content' doesn't exist
+)
+
+[2026-04-17 10:00:21] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:00:21] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776412821, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:06:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:06:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:06:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413186, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:07:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:07:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:07:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413220, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:07:00] (ERROR @ Unknown0) PHP warning: session_write_close(): Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp, handler: MODX\Revolution\modSessionHandler::write)
+[2026-04-17 10:10:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:15] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413415, '')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:15] (ERROR @ Unknown0) PHP warning: session_write_close(): Failed to write session data using user defined save handler. (session.save_path: C:\xampp\tmp, handler: MODX\Revolution\modSessionHandler::write)
+[2026-04-17 10:10:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:23] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413423, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:57] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413457, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:58] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:58] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:10:58] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413458, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:11:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:11:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:11:02] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413462, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:43] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413563, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:12:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('bfsqimgdbf1mmpbhrkd91skbi9', 1776413565, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:18] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776413898, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:26] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776413906, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:18:54] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776413934, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:09] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414189, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:10] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:10] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:10] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414190, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:11] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414191, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:12] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414192, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:13] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414193, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:23:14] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('8714b7ic25oub00ubi2q1efj2v', 1776414194, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:24:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:24:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:24:45] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('0hcbm2som5vio8sh2cjmbug4dt', 1776414285, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:00] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('0hcbm2som5vio8sh2cjmbug4dt', 1776414300, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 10:25:03] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('0hcbm2som5vio8sh2cjmbug4dt', 1776414303, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:25:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:25:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:25:28] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('0hcbm2som5vio8sh2cjmbug4dt', 1776417928, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:27:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:27:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 227) Error 42S02 executing statement: 
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
+[2026-04-17 11:27:27] (ERROR @ C:\xampp\htdocs\airport-parking\core\vendor\xpdo\xpdo\src\xPDO\Om\xPDOObject.php : 1447) Error 42S02 executing statement:
+INSERT INTO `modx_session` (`id`, `access`, `data`) VALUES ('1r2gmrc24logbbrlaefevodp5a', 1776418047, 'modx.user.contextTokens|a:0:{}')
+Array
+(
+    [0] => 42S02
+    [1] => 1146
+    [2] => Table 'airport_parking.modx_session' doesn't exist
+)
+
